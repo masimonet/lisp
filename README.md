@@ -26,5 +26,12 @@ sbcl --script interpreter.lisp
 ```
 sbcl --script functional_interpreter.lisp
 ```
+
+This guide assumes you have already cloned the repo
+
+
+
+
 ```
 ```
+``
